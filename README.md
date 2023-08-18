@@ -15,6 +15,7 @@ First we can take the dataset based on one input value and some mathematical cal
 
 
 
+
 ## DESIGN STEPS
 
 ### STEP 1:
