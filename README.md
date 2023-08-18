@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+
 
 ## DESIGN STEPS
 
