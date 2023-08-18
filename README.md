@@ -10,8 +10,7 @@ First we can take the dataset based on one input value and some mathematical cal
 
 ## Neural Network Model
 
-![Uploading image.png…]()
-
+![image](https://github.com/VishalGowthaman/basic-nn-model/assets/94165380/c47bb649-7c5e-49b9-a94e-5191c1fdb8e6)
 
 
 
