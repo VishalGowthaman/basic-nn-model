@@ -6,10 +6,11 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+First we can take the dataset based on one input value and some mathematical calculus output value.Next define the neural network model in three layers.First layer has six neurons and second layer has four neurons,third layer has one neuron.The neural network model takes the input and produces the actual output using regression.
 
 ## Neural Network Model
 
+![image](https://github.com/VishalGowthaman/basic-nn-model/assets/94165380/3fe18dd2-b4ed-4018-8d3f-51d3491b7579)
 
 
 ## DESIGN STEPS
