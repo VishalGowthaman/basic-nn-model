@@ -48,10 +48,6 @@ Evaluate the model with the testing data.
 ## PROGRAM
 
 ```
-DEVELOPED BY : VISHAL GOWTHAMAN K R
-REG NO : 212221230123
-``` 
-```
 from google.colab import auth
 import gspread
 from google.auth import default
